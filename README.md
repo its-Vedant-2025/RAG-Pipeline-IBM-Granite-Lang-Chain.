@@ -1,5 +1,7 @@
 # RAG Pipeline with IBM Granite and LangChain 🚀🤖
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/its-Vedant-2025/RAG-Pipeline-IBM-Granite-Lang-Chain./blob/main/RAG_Pipeline_IBM_Granite_LangChain.ipynb)
+
 A Retrieval-Augmented Generation (RAG) pipeline that grounds an LLM's answers in
 a real source document — instead of letting it hallucinate, it retrieves
 relevant passages first and answers only from those.
