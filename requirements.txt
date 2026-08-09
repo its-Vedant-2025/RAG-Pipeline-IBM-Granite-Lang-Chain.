@@ -1,0 +1,13 @@
+python-dotenv
+transformers
+langchain_classic
+langchain_community
+langchain_text_splitters
+langchain_huggingface
+sentence_transformers
+langchain_milvus
+pymilvus[milvus_lite]
+langchain_replicate @ git+https://github.com/ibm-granite-community/langchain-replicate.git
+git+https://github.com/ibm-granite-community/utils.git
+replicate
+wget
